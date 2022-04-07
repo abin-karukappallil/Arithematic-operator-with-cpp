@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to <%= Arithematic-operator-with-cpp %> 👋</h1>
+<h1 align="center"> **Welcome to Arithematic-operator-with-cpp** 👋</h1>
 
 <% if (projectDescription) { -%>
 
